@@ -8,7 +8,5 @@
 6. SVM
 7. Decision Tree
 8. Random Forest
-9. Principal Component Analysis (PCA)
-10. K-Means
-11. AdaBoost
-12. Linear Discriminant Analysis (LDA)
+9. K-Means
+10. AdaBoost
