@@ -11,7 +11,7 @@
   - [Neural Networks and Deep Learning](#neural-networks-and-deep-learning)
     - [CNN](#cnn)
     - [RNN](#rnn)
-    - [GANS](#gans)
+    - [GANs](#gans)
     - [Autoencoders](#autoencoders)
     - [Perceptrons](#perceptrons)
   - [Ensemble Learning](#ensemble-learning)
@@ -39,7 +39,7 @@
 
 ### RNN
 
-### GANS 
+### GANs
 
 ### Autoencoders
 
@@ -47,8 +47,8 @@
 
 ## Ensemble Learning
 
-### Stacking 
+### Stacking
 
 ### Bagging
 
-### Boosting 
+### Boosting
