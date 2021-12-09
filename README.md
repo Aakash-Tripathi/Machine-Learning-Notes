@@ -6,6 +6,8 @@
   - [Reinforcement Learning](#reinforcement-learning)
   - [Neural Networks and Deep Learning](#neural-networks-and-deep-learning)
   - [Ensemble Learning](#ensemble-learning)
+  - [Model Interpretability](#model-interpretability)
+  - [Feature Selection](#feature-selection)
 
 ## Supervised Learning
 
@@ -16,3 +18,8 @@
 ## Neural Networks and Deep Learning
 
 ## Ensemble Learning
+
+
+## Model Interpretability
+
+## Feature Selection
